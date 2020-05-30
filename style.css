@@ -1,0 +1,28 @@
+bar{
+      display:flex;
+      margin:0px;
+  padding: 0px;
+  background-color:yellow;
+}
+bg{
+    background-color:purple;
+}
+
+ul{
+  margin: 0 3vw;
+  padding: 0 4.5vw;
+  
+  /*this option by default dispose the elements in a row (flex-direction: row)*/
+  display: flex;
+}
+h2{
+    text-align:center;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+background-color:#c79e2c;
+  
+}
