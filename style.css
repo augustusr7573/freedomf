@@ -2,12 +2,10 @@ bar{
       display:flex;
       margin:0px;
   padding: 0px;
-  background-color:yellow;
+  background-color:#e81026;
   text-align: center;
 }
-bg{
-    background-color:purple;
-}
+
 
 ul{
   margin: 0 3vw;
@@ -24,7 +22,7 @@ a{
   text-decoration: none;
 }
 a:hover{
-background-color:#c79e2c;
+background-color:#4ee8f2;
   
 }
 p{
